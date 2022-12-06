@@ -6,7 +6,7 @@ author:  Alexia Cardona
 <br/>
 
 ### Description
-
+hi
 This course introduces concepts about reproducibility that can be used when you are programming in R. We will explore how to create notebooks - a way to integrate your R analyses into reports using Rmarkdown. The course also introduces the concept of version control. We will learn how to create a repository on GitHub and how to work together on the same project collaboratively without creating conflicting versions of files.
 
 \  
